@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>CV_Musa Suleymanli</title>
+	<style type="text/css">
+		th,td
+		{
+			border:1px solid green;
+		}
+		td{
+			font-size: 15px;
+		}
+		img{
+			width: 150px;
+			height: 100px;
+			padding-left: 60px;
+			padding-top: 35px;
+			float: left;
+		}
+		.Marked-texted_headings{
+			font-size: 18px;
+			margin-right: 200px;
+			color: blue;
+		}
+		.bold_Subheadings{
+			font-size: 15px;
+			padding-right: 270px;
+		}
+		#First_boldSubheading{
+			padding-right: 200px;
+		}
+		#uniTime{
+			padding-right: 200px;
+		}
+		#specialtyHeading{
+			font-size: 22px;
+			color: darkgreen;
+			padding-right: 200px;
+		}
+		em{
+			font-size: 17px;
+		}
+		#scndEmph{
+			padding-right: 270px;
+		}
+		h2{
+			padding-left: 45px;
+			color: green;
+			float: left;
+		}
+		h4{
+			padding-left: 69px;
+			float: left;
+		}
+		.schoolYears{
+			padding-right: 270px;
+		}
+		#secndScYrs{
+			padding-left: 0px;
+		}
+		h3{
+			padding-left: 23px;
+			color: blue;
+			float: left;
+		}
+		.hR{
+			width: 200px;
+			margin-left: 23px;
+			float: left;
+		}
+		.contactsInfo{
+			float: left;
+		}
+		#honsAws{
+			list-style-type: circle;
+			padding-left: 450px;
+		}
+		#skills{
+			float: left;
+			list-style-type: square;
+			font-size: 15px;
+		}
+		table{
+			width: 55%;
+			padding-left: 130px;
+		}
+		#beuObj{
+			float: right;
+			padding-left: 380px;
+			padding-right: 370px;
+		}
+		#obj{
+			width: 250px;
+			padding-left: 15px;
+			font-size: 13px;
+			float: left;
+		}
+		#tetgObj{
+			padding-left: 370px;
+			padding-right: 370px;
+		}
+		#no15Obj{
+			padding-left: 0px;
+		}
+		#exp{
+			padding-left: 220px;
+		}
+		#expCnt{
+			float: right;
+			padding-left: 450px;
+			padding-right: 450px;
+		}
+		#cntctsInf{
+			padding-left: 20px;
+			font-size: 15px;
+			width: 250px;
+			float: left;
+		}
+		#hnsAwrds{
+			padding-left: 820px;
+		}
+		#langs{
+			margin-left: 80px;
+		}
+		#schlNo_15{
+			padding-right: 260px;
+		}
+	</style>
+</head>
+
+<body>
+	<img src="https://banner2.cleanpng.com/20180627/bh/kisspng-programmer-computer-icons-computer-programming-ava-5b3336b7c94ce5.4159474115300829998245.jpg" alt="Photo">
+
+	<!--Education!-->
+	<center>
+	<mark class="Marked-texted_headings">EDUCATION</mark>
+	<br><br><br><br><b id="First_boldSubheading" class="bold_Subheadings">Khirdalan</b>
+	<br><i id="uniTime">since 2017</i>
+	<center><strong id="specialtyHeading">Information Technologies(EN)</strong>
+	<br><em>Baku Engineering University</em>
+
+
+
+	<br><h2><b>Musa Suleymanli</b></h2><br><br><br>
+	<br><h4><strong>Software Engineer</strong></h4>
+
+	<br><p id="beuObj">-I've completed one year foundation program for learning English and achieved C1 level,got certificate of the university.Then I have been a specialty chairman in accordance with IT specialty over university at the Students' Youth Organization.I've been a member of several different-aimed student clubs such as Techno,Codex,Book etc. and have attended a number of events,courses(Python,HTML&CSS),seminars,meetings organized by these clubs,have communicated with some local and foreigner expert guests,also got some gifts,certificates such as ones related to 'Digital Twin' technology practice using MATLAB programming language at PACE in BEU club due to
+	<abbr title="Process Automation Engineering"><i>PAE</i></abbr>,for attendance and activity in the discussions at BEU Book club.</p>
+
+	</center>
+
+	<br><br><br><br>
+	<p id="obj">I'm  a university student at one of most progressive universities in Azerbaijan,Baku Engineering University right now.I've attended more than 200 local and international events,seminars,webinars,courses etc. according to my specialty and have been attending on my free times now also,have got several certificates.I've completed secondary and high school with excellent grades and entered to university with 618 scores.I follow technological trends related to IT and news,am in several groups due to IT,especially programming in social networks.I'm also going in for boxing and judo sports amateurly in my free times,it also depicts very well for to alternate mental and physical works.
+	</p>
+
+	<br><br><br><br><br><br><br><b class="bold_Subheadings">Sumgait</b>
+	<br><i class="schoolYears">2012-2017</i>
+	<center><br><em id="scndEmph">Natural Sciences Based Gymnasium</em>
+	<br><br><p id="tetgObj">-I've graduated with red certificates both for secondary and high educations.I've got 2nd place and certificate from Mathematics subject in an olympiad in Sumgait city at 8th class during my study here.Then,at 11th class,I've got 1st place and diploma in school,city and region championships at physical category(bar) of a competition called 'Shahinler'('Falcons') which was helded between schoolchildren.</p>
+	</center>
+	<b class="bold_Subheadings">Sumgait</b>
+	<br><i class="schoolYears" id="secndScYrs">2006-2012</i>
+	<center><br><em id="schlNo_15">Muhammad Fuzuli named 15 numbered secondary school</em>
+	<br><br><p id="no15Obj">-I've completed with excellent grades,some honorary decrees</p>
+	<br><br><br>
+
+	<p id="exp"><mark class="Marked-texted_headings">EXPERIENCE</mark></p>
+	<center><p id="expCnt">I haven't worked at any job or got practice program yet.However,mainly,I've been taking for about 6 months C# course myself personally.Then I've taken personally several free courses such as Python,HTML&CSS organized by some student clubs at university.My current university GPA is 85.98 yet.</center></p>
+
+	<h3>Contacts_Info</h3>
+	<br><br><br><br><br><br><br><br><br><br><br>
+	<hr class="hR">
+	<br><p id="cntctsInf">
+		<b class="contactsInfo"><u>E-mail: </u></b>
+				msuleymanli@std.beu.edu.az
+		<br><b class="contactsInfo"><u>Address: </u></b>
+				N.Narimanov street,5th mcr.,Sumgait city,Azerbaijan Republic
+		<br><b class="contactsInfo"><u>Phone: </u></b>
+				+994555268749
+		<br><b class="contactsInfo"><u>Date of birth: </u></b>
+				08.01.2000
+		<br><b class="contactsInfo"><u>Nationality: </u></b>
+				Azerbaijani
+		<br><b class="contactsInfo"><u>Social media or personal website: </u></b>
+				linkedin.com/in/musa-suleymanli-291024197
+	</p>
+
+	
+
+	</center> </center>
+
+	<p id="hnsAwrds"><mark class="Marked-texted_headings">HONORS/AWARDS</mark></p><br>
+	<ul id="honsAws">
+		<li>>Certificate of participation in Google Hash Code international programming competition challenge</li>
+		<li>>Certificate of appreciation for participating at the 2nd Global Engineering Symposium organized by Horizon Education Agency</li>
+		<li>>Certificate of attendance in the practical seminar about 'Digital Twin' technology with MATLAB programming<br>language organized by AREA and BEU</li>
+		<li>>Certificate of Baku Engineering University about completing one year foundation program and achieving the level C1</li>
+	</ul>
+
+	<h3>Skills</h3>
+	<br><br><br><br><hr class="hR">
+	<br><ul id="skills">
+		<li>C/C++,C#,Java,Python,MATLAB <br> programming languages</li>
+		<li>HTML,CSS script languages</li>
+		<li>SQL,Microsoft SQL Server</li>
+		<li>AutoCAD</li>
+		<li>Microsoft Office(Word,Excel,PowerPoint)</li>
+		<li>Drawing</li>
+	</ul>
+
+<table>
+
+		<th colspan="2"><p><mark class="Marked-texted_headings" id="langs">LANGUAGES</mark></p></th>
+	
+	<center>
+	<tr>
+		<td><b>Azerbaijani</b></td>
+		<td><i>Native</i></td>
+	</tr>
+	<tr>
+		<td><b>Turkish</b></td>
+		<td><i>Advanced</i></td>
+	</tr>
+	<tr>
+		<td><b>English</b></td>
+		<td><i>Intermediate</i></td>
+	</tr>
+	<tr>
+		<td><b>Russian</b></td>
+		<td><i>Pre-Intermediate</i></td>
+	</tr>
+	<tr>
+		<td><b>German</b></td>
+		<td><i>Elementary</i></td>
+	</tr>
+	<tr>
+		<td><b>Italian</b></td>
+		<td><i>Beginner</i></td>
+	</tr>
+	</center>
+
+</table>
+
+
+</body>
+
+</html>
